@@ -4,6 +4,8 @@ git clone "link of repository"
 
 git add --all
 
+git add "Basic Git Commands.txt"
+
 git commit -m "First Commit"
 
  git config --global user.email "you@example.com"
