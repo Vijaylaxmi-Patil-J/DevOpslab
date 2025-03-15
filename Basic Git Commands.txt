@@ -10,8 +10,27 @@ git restore --staged "Feature2.txt"
 
 git commit -m "First Commit"
 
- git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
 
 git push
 
+git pull
+
+
+
+
+
+git branch
+
+git checkout -b "March"
+
+git branch April
+
+git checkout March
+
+ git push --set-upstream origin March
+
+git merge March
+
+git push -u origin master
