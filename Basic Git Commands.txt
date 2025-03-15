@@ -30,3 +30,7 @@ git branch April
 git checkout March
 
  git push --set-upstream origin March
+
+git merge March
+
+git push -u origin master
