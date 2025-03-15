@@ -1,0 +1,12 @@
+git status
+
+git clone "link of repository"
+
+git add --all
+
+git commit -m "First Commit"
+
+ git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+git push
