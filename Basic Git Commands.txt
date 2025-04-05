@@ -35,5 +35,5 @@ git merge March
 
 git push -u origin master
 
-git log 
-q
+
+
